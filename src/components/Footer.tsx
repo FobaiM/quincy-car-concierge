@@ -16,8 +16,8 @@ const Footer = () => {
           <div>
             <h4 className="font-display text-lg font-bold text-foreground mb-4">Contact</h4>
             <div className="space-y-3">
-              <a href="tel:+16175550123" className="flex items-center gap-2 text-sm font-body text-muted-foreground hover:text-primary transition-colors">
-                <Phone className="w-4 h-4 text-primary" /> (617) 555-0123
+              <a href="tel:+12405448324" className="flex items-center gap-2 text-sm font-body text-muted-foreground hover:text-primary transition-colors">
+                <Phone className="w-4 h-4 text-primary" /> (240) 544-8324
               </a>
               <a href="mailto:info@pristineautodetail.com" className="flex items-center gap-2 text-sm font-body text-muted-foreground hover:text-primary transition-colors">
                 <Mail className="w-4 h-4 text-primary" /> info@pristineautodetail.com
