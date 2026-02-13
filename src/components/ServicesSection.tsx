@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Droplets, Shield, Sparkles, Car, SprayCan, Sun } from "lucide-react";
+import { Droplets, Sparkles, Car, Sun } from "lucide-react";
 import detailingClose from "@/assets/detailing-close.jpg";
 import interiorDetail from "@/assets/interior-detail.jpg";
 
@@ -15,18 +15,6 @@ const services = [
     title: "Interior Deep Clean",
     description: "Full vacuum, steam clean, leather conditioning, and odor elimination.",
     price: "From $129",
-  },
-  {
-    icon: Shield,
-    title: "Ceramic Coating",
-    description: "Professional-grade ceramic protection for years of lasting shine.",
-    price: "From $499",
-  },
-  {
-    icon: SprayCan,
-    title: "Paint Correction",
-    description: "Multi-stage paint correction to remove swirls, scratches, and oxidation.",
-    price: "From $349",
   },
   {
     icon: Sun,
